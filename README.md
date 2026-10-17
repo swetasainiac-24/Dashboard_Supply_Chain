@@ -1,5 +1,3 @@
-# Supply-Chain-Analytics-Dashboard
-"An interactive Power BI dashboard to analyze delivery risks, optimize shipping modes, and track profit margins across global markets."
 # Supply Chain Control Tower Dashboard
 
 ##  Project Overview
